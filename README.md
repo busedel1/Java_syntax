@@ -1,0 +1,2 @@
+# Java_syntax
+HackerRankでのJavaの文法問題の解答
